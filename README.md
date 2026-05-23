@@ -1,5 +1,7 @@
 # Orator ServiceServer Base
 
+> **[&#9654; Read the Orator-Serviceserver-Base Documentation](https://stevenvelozo.github.io/orator-serviceserver-base/)** &mdash; interactive docs with the full API reference.
+
 > Abstract base class defining the interface for Orator service server implementations
 
 OratorServiceServerBase provides the contract that all Orator service servers must implement. It handles route registration validation and defines the lifecycle methods (listen, close), HTTP verb methods (get, post, put, del, patch, opts, head), middleware registration, and body parsing. Derived classes override the `do*` methods to provide actual behavior.
