@@ -7,5 +7,5 @@
 - Lifecycle management for listen and close operations
 - Foundation for custom service server implementations
 
-[GitHub](https://github.com/stevenvelozo/orator-serviceserver-base)
+[GitHub](https://github.com/fable-retold/orator-serviceserver-base)
 [Get Started](#orator-serviceserver-base)

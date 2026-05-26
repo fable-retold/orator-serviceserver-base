@@ -19,14 +19,14 @@
     "types": "types/Orator-ServiceServer-Base.d.ts",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/stevenvelozo/orator-serviceserver-base.git"
+        "url": "git+https://github.com/fable-retold/orator-serviceserver-base.git"
     },
     "author": "",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/stevenvelozo/orator-serviceserver-base/issues"
+        "url": "https://github.com/fable-retold/orator-serviceserver-base/issues"
     },
-    "homepage": "https://github.com/stevenvelozo/orator-serviceserver-base#readme",
+    "homepage": "https://github.com/fable-retold/orator-serviceserver-base#readme",
     "devDependencies": {
         "@eslint/js": "^9.39.1",
         "@types/jquery": "^3.5.33",

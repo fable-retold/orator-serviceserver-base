@@ -1,6 +1,6 @@
 # Orator ServiceServer Base
 
-> **[&#9654; Read the Orator-Serviceserver-Base Documentation](https://stevenvelozo.github.io/orator-serviceserver-base/)** &mdash; interactive docs with the full API reference.
+> **[&#9654; Read the Orator-Serviceserver-Base Documentation](https://fable-retold.github.io/orator-serviceserver-base/)** &mdash; interactive docs with the full API reference.
 
 > Abstract base class defining the interface for Orator service server implementations
 
@@ -143,6 +143,6 @@ npx docsify-cli serve docs
 
 ## Related Packages
 
-- [orator](https://github.com/stevenvelozo/orator) - Main Orator service abstraction
-- [orator-serviceserver-restify](https://github.com/stevenvelozo/orator-serviceserver-restify) - Restify implementation
-- [fable](https://github.com/stevenvelozo/fable) - Service provider framework
+- [orator](https://github.com/fable-retold/orator) - Main Orator service abstraction
+- [orator-serviceserver-restify](https://github.com/fable-retold/orator-serviceserver-restify) - Restify implementation
+- [fable](https://github.com/fable-retold/fable) - Service provider framework
