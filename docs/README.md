@@ -57,6 +57,6 @@ See the [API reference](api-reference.md) for complete method documentation.
 
 ## Related Packages
 
-- [orator](https://github.com/fable-retold/orator) - Main Orator service abstraction
-- [orator-serviceserver-restify](https://github.com/fable-retold/orator-serviceserver-restify) - Restify implementation
-- [fable](https://github.com/fable-retold/fable) - Service provider framework
+- [orator](https://fable-retold.github.io/orator/) - Main Orator service abstraction
+- [orator-serviceserver-restify](https://fable-retold.github.io/orator-serviceserver-restify/) - Restify implementation
+- [fable](https://fable-retold.github.io/fable/) - Service provider framework
