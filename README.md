@@ -1,6 +1,6 @@
 # Orator ServiceServer Base
 
-> **[&#9654; Read the Orator-Serviceserver-Base Documentation](https://fable-retold.github.io/orator-serviceserver-base/)** &mdash; interactive docs with the full API reference.
+> **[Read the Orator-Serviceserver-Base Documentation](https://fable-retold.github.io/orator-serviceserver-base/)** - interactive docs with the full API reference.
 
 > Abstract base class defining the interface for Orator service server implementations
 
